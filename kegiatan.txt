@@ -5,5 +5,7 @@ to do list
   1. mulai
   2. selesai
 - lanjut syuting
+  1. efek
+  2. edit
 - lanjut nulis
 - belajar javascript

@@ -5,3 +5,4 @@ to do list
   1. mulai
   2. selesai
 - lanjut syuting
+- lanjut nulis

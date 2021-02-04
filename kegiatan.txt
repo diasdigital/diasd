@@ -1,6 +1,7 @@
 to do list
 
 - bikin subtitle
+  1. aktif nonton
 - beresin app
   1. mulai
   2. selesai
